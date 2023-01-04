@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>闲来无事，扯个毛线</title>
+    <link>https://mekong.github.io/</link>
+    <description>Recent content on 闲来无事，扯个毛线</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>Xueming | MPL-2.0</copyright>
+    <lastBuildDate>Wed, 04 Jan 2023 14:44:10 +0800</lastBuildDate><atom:link href="https://mekong.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【周刊】001</title>
+      <link>https://mekong.github.io/weekly/001/</link>
+      <pubDate>Wed, 04 Jan 2023 14:44:10 +0800</pubDate>
+      
+      <guid>https://mekong.github.io/weekly/001/</guid>
+      <description>xxx</description>
+    </item>
+    
+    <item>
+      <title>扯毛线</title>
+      <link>https://mekong.github.io/blog/maoxian/</link>
+      <pubDate>Wed, 04 Jan 2023 13:39:53 +0800</pubDate>
+      
+      <guid>https://mekong.github.io/blog/maoxian/</guid>
+      <description>🧶 写文章有点像是扯毛线， 下笔之前就需要理理顺。</description>
+    </item>
+    
+    <item>
+      <title>关于我</title>
+      <link>https://mekong.github.io/about/</link>
+      <pubDate>Wed, 04 Jan 2023 13:30:53 +0800</pubDate>
+      
+      <guid>https://mekong.github.io/about/</guid>
+      <description>产品经理一枚，有狗一只。 时常抽风，想写点文字，发发碎碎念。 搭这个博客花了 3 个小时，但愿可以存活的久一点。 👇 可以在下面这些地方找到我 即刻 Twitter</description>
+    </item>
+    
+    
+  </channel>
+</rss>

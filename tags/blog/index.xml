@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>blog on 闲来无事，扯个毛线</title>
+    <link>https://mekong.github.io/tags/blog/</link>
+    <description>Recent content in blog on 闲来无事，扯个毛线</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>Xueming | MPL-2.0</copyright>
+    <lastBuildDate>Wed, 04 Jan 2023 13:39:53 +0800</lastBuildDate><atom:link href="https://mekong.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>扯毛线</title>
+      <link>https://mekong.github.io/blog/maoxian/</link>
+      <pubDate>Wed, 04 Jan 2023 13:39:53 +0800</pubDate>
+      
+      <guid>https://mekong.github.io/blog/maoxian/</guid>
+      <description>🧶 写文章有点像是扯毛线， 下笔之前就需要理理顺。</description>
+    </item>
+    
+  </channel>
+</rss>
