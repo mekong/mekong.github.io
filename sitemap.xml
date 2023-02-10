@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mekong.github.io/weekly/001/</loc>
-    <lastmod>2023-01-04T14:44:10+08:00</lastmod>
+    <loc>https://mekong.github.io/posts/aloha/</loc>
+    <lastmod>2023-02-09T21:51:42+08:00</lastmod>
+  </url><url>
+    <loc>https://mekong.github.io/tags/blog/</loc>
+    <lastmod>2023-02-09T21:51:42+08:00</lastmod>
   </url><url>
     <loc>https://mekong.github.io/</loc>
-    <lastmod>2023-01-04T14:44:10+08:00</lastmod>
+    <lastmod>2023-02-09T21:51:42+08:00</lastmod>
+  </url><url>
+    <loc>https://mekong.github.io/posts/</loc>
+    <lastmod>2023-02-09T21:51:42+08:00</lastmod>
   </url><url>
     <loc>https://mekong.github.io/tags/</loc>
+    <lastmod>2023-02-09T21:51:42+08:00</lastmod>
+  </url><url>
+    <loc>https://mekong.github.io/weekly/001/</loc>
     <lastmod>2023-01-04T14:44:10+08:00</lastmod>
   </url><url>
     <loc>https://mekong.github.io/weekly/</loc>
@@ -16,12 +25,6 @@
   </url><url>
     <loc>https://mekong.github.io/tags/weekly/</loc>
     <lastmod>2023-01-04T14:44:10+08:00</lastmod>
-  </url><url>
-    <loc>https://mekong.github.io/tags/blog/</loc>
-    <lastmod>2023-01-04T13:39:53+08:00</lastmod>
-  </url><url>
-    <loc>https://mekong.github.io/posts/</loc>
-    <lastmod>2023-01-04T13:39:53+08:00</lastmod>
   </url><url>
     <loc>https://mekong.github.io/posts/maoxian/</loc>
     <lastmod>2023-01-04T13:39:53+08:00</lastmod>
